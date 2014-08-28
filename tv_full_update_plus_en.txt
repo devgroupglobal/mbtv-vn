@@ -56,6 +56,7 @@ VNM;fox;;1;1;$
 VNM;france24en;;1;1;$
 VNM;fun;;1;1;$
 VNM;hanam;;1;1;$
+VNM;hbo;;1;1;$
 VNM;hbo_f;;1;1;$
 VNM;hbo_hd;;1;1;$
 VNM;hbtv;;1;1;$
