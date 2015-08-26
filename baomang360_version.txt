@@ -1,1 +1,1 @@
-6;https://github.com/AppGroup/AndroidApp/raw/master/TinTuc247/TinTuc247.apk;
+7;https://github.com/AppGroup/AndroidApp/raw/master/TinTuc247/TinTuc247.apk;
